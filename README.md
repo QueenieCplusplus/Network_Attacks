@@ -8,14 +8,6 @@
 
 ![](https://ichef.bbci.co.uk/news/976/cpsprodpb/2B87/production/_90934111_1-1.jpg)
 
-543 --- Packet Filter (Static Packet/Stateful or Dynamic Packet)
-
-544 --- Proxy (Web level/App level/Circut level)
-
-545 --- Scanning (Port/FIN/TCP seq) using tool: Nessus/Nmap
- 
-550 --- Tool (tcpdump)
-
 
 # Eavesdropping, 竊聽
 
@@ -58,4 +50,5 @@ The fragments are reassembled by the receiving host.
 * Prevention
 
 a solution to this problem is for TCP/IP stacks not to allow fragments to overwrite each other.
+
 
