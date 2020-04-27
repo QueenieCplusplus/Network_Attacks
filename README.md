@@ -4,7 +4,7 @@
 
 * Spam
 
-* FW
+* Attack FW by Overlapping Fragment
 
 543 --- Packet Filter (Static Packet/Stateful or Dynamic Packet)
 
@@ -14,7 +14,6 @@
  
 550 --- Tool (tcpdump)
 
-551 --- Attack FW by Overlapping Fragment
 
 # Eavesdropping, 竊聽
 
@@ -42,5 +41,9 @@ spammers manipulate the content and keywors in therir msg.
 
 to do a filter to mail server (Mail Transfer Agent & Mail User Agent) by administrator, to config a blacklist of spam src.
 
-# Firewall Filtering, 防火牆過濾
+# 
+
+* Prevention
+
+Firewall Filtering, 防火牆過濾 (by address || by service port)
 
