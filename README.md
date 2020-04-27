@@ -55,5 +55,5 @@ The fragments are reassembled by the receiving host.
 
 * Prevention
 
-Firewall Filtering, 防火牆過濾 (by address || by service port)
+a solution to this problem is for TCP/IP stacks not to allow fragments to overwrite each other.
 
