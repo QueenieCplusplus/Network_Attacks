@@ -6,6 +6,8 @@
 
 * Bypass FW
 
+![](https://ichef.bbci.co.uk/news/976/cpsprodpb/2B87/production/_90934111_1-1.jpg)
+
 543 --- Packet Filter (Static Packet/Stateful or Dynamic Packet)
 
 544 --- Proxy (Web level/App level/Circut level)
