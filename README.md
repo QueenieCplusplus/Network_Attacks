@@ -16,6 +16,8 @@
 
 this attack is particularly easy in wireless LANs, where no physical connections are necessary, and it is advantageous for an attacke to remain invisible (unaddressable) on the network.
 
+![eavesdrop](https://cdn2.iconfinder.com/data/icons/man-and-door/351/door-022-512.png)
+
 * Prevention
 
 (1) Encrption on network level or app level
