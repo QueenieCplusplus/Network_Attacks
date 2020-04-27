@@ -4,7 +4,7 @@
 
 * Spam
 
-542 --- Filtering (by addr/ by service)
+* FW
 
 543 --- Packet Filter (Static Packet/Stateful or Dynamic Packet)
 
@@ -41,3 +41,6 @@ spammers manipulate the content and keywors in therir msg.
 * Prevention
 
 to do a filter to mail server (Mail Transfer Agent & Mail User Agent) by administrator, to config a blacklist of spam src.
+
+# Firewall Filtering, 防火牆過濾
+
