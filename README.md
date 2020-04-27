@@ -4,7 +4,7 @@
 
 * Spam
 
-* Overlapping Fragment
+* Bypass FW
 
 543 --- Packet Filter (Static Packet/Stateful or Dynamic Packet)
 
@@ -44,6 +44,8 @@ to do a filter to mail server (Mail Transfer Agent & Mail User Agent) by adminis
 # Overlapping Fragment bypass FW, 穿透防火牆的攻擊
 
 the leak that FW has is that it only inspect the 1st fragment of a fragmented packets. Hacker sends out a 1st harmless fragment, which will satisfy the packet filter. Other packets followed wil then overwrite the 1st fragement with malicios data.
+
+![FW](https://thetechwin.files.wordpress.com/2019/03/ngfw.png?w=1000)
 
 * Remark
 
