@@ -26,4 +26,6 @@ this attack is particularly easy in wireless LANs, where no physical connections
 
 (4) Mandate trusted routed for data (the info is only traversing trusted network domain)
 
-# Spam
+# Spam, 垃圾郵件（罐頭早餐肉）
+
+![spam](https://blog.trendmicro.com.tw/wp-content/uploads/2011/10/spam.jpg)
