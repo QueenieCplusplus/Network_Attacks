@@ -12,6 +12,14 @@
 
 # Eavesdropping, 竊聽
 
-this attack is particularly easy in wireless LANs, where no physical connections are necessary.
+this attack is particularly easy in wireless LANs, where no physical connections are necessary, and it is advantageous for an attacke to remain invisible (unaddressable) on the network.
 
-and it is advantageous for an attacke to remain invisible (unaddressable) on the network.
+* Prevention
+
+(1) Encrption on network level or app level
+
+(2) Traffic padding to prevent identify time
+
+(3) Reroute to anonymize its origin
+
+(4) Mandate trusted routed for data (the info is only traversing trusted network domain)
