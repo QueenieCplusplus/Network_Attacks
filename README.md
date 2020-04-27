@@ -34,9 +34,10 @@ this attack is particularly easy in wireless LANs, where no physical connections
 
 # Spam, 垃圾郵件（罐頭早餐肉）
 
+spammers manipulate the content and keywors in therir msg.
 
 ![spam](https://blog.trendmicro.com.tw/wp-content/uploads/2011/10/spam.jpg)
 
 * Prevention
 
-to do a filter to mail server by administrator, to config a blacklist of spam src.
+to do a filter to mail server (Mail Transfer Agent & Mail User Agent) by administrator, to config a blacklist of spam src.
