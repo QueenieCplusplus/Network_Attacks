@@ -41,7 +41,7 @@ spammers manipulate the content and keywors in therir msg.
 
 to do a filter to mail server (Mail Transfer Agent & Mail User Agent) by administrator, to config a blacklist of spam src.
 
-# Overlapping Fragment
+# Overlapping Fragment, 穿透防火牆的攻擊
 
 * Prevention
 
