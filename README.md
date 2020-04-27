@@ -45,6 +45,12 @@ to do a filter to mail server (Mail Transfer Agent & Mail User Agent) by adminis
 
 the leak that FW has is that it only inspect the 1st fragment of a fragmented packets. Hacker sends out a 1st harmless fragment, which will satisfy the packet filter. Other packets followed wil then overwrite the 1st fragement with malicios data.
 
+* Remark
+
+IP fragmentation is an internet protocol process that breaks packets into smaller fragments, so that the resulting pieces can pass through a link with a smaller maximum transmission unit (MTU) than the original packet size.
+
+The fragments are reassembled by the receiving host.
+
 * Prevention
 
 Firewall Filtering, 防火牆過濾 (by address || by service port)
