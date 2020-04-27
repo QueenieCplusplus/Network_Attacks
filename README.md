@@ -41,7 +41,9 @@ spammers manipulate the content and keywors in therir msg.
 
 to do a filter to mail server (Mail Transfer Agent & Mail User Agent) by administrator, to config a blacklist of spam src.
 
-# Overlapping Fragment, 穿透防火牆的攻擊
+# Overlapping Fragment bypass FW, 穿透防火牆的攻擊
+
+the leak that FW has is that it only inspect the 1st fragment of a fragmented packets. Hacker sends out a 1st harmless fragment, which will satisfy the packet filter. Other packets followed wil then overwrite the 1st fragement with malicios data.
 
 * Prevention
 
