@@ -4,7 +4,7 @@
 
 * Spam
 
-* Attack FW by Overlapping Fragment
+* Overlapping Fragment
 
 543 --- Packet Filter (Static Packet/Stateful or Dynamic Packet)
 
@@ -41,7 +41,7 @@ spammers manipulate the content and keywors in therir msg.
 
 to do a filter to mail server (Mail Transfer Agent & Mail User Agent) by administrator, to config a blacklist of spam src.
 
-# 
+# Overlapping Fragment
 
 * Prevention
 
