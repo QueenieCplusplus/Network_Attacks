@@ -1,17 +1,21 @@
-# Network Attacks
+# Network Attacks, 常見的網路攻擊
 
-* Eavesdropping using tool: Network tap or span
+* Eavesdropping, 竊聽封包
 
-* Spam
+* Spam, 垃圾郵件
 
-* Bypass FW
+* Bypass FW, 繞過防火牆
 
 ![](https://ichef.bbci.co.uk/news/976/cpsprodpb/2B87/production/_90934111_1-1.jpg)
 
 
-# Eavesdropping, 竊聽
+# Eavesdropping, 竊聽封包
 
 this attack is particularly easy in wireless LANs, where no physical connections are necessary, and it is advantageous for an attacke to remain invisible (unaddressable) on the network.
+
+* using tool: 
+
+Network tap or span
 
 ![eavesdrop](https://cdn2.iconfinder.com/data/icons/man-and-door/351/door-022-512.png)
 
@@ -50,5 +54,3 @@ The fragments are reassembled by the receiving host.
 * Prevention
 
 a solution to this problem is for TCP/IP stacks not to allow fragments to overwrite each other.
-
-
